@@ -1,5 +1,5 @@
 # Springboot-Thymeleaf-Examples
-##Examples of Thymeleaf project from Udemy -  Spring Boot 3 Thymeleaf REAL-TIME Web Application - Blog App
+## Examples of Thymeleaf project from Udemy -  Spring Boot 3 Thymeleaf REAL-TIME Web Application - Blog App
 
 **What is Thymeleaf?**
 
