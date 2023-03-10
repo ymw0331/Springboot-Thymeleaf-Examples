@@ -1,7 +1,7 @@
-# springboot-thymeleaf-examples
-Examples of Thymeleaf project from Udemy -  Spring Boot 3 Thymeleaf REAL-TIME Web Application - Blog App
+# Springboot-Thymeleaf-Examples
+##Examples of Thymeleaf project from Udemy -  Spring Boot 3 Thymeleaf REAL-TIME Web Application - Blog App
 
-What is Thymeleaf?
+**What is Thymeleaf?**
 
 Thymeleaf is a modern server-side Java template engine for both web and standalone environments, capable of processing HTML, XML, JavaScript, CSS, and even plain text.
 
